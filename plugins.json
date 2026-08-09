@@ -1,0 +1,11 @@
+[
+  {
+    "id": "wtrlab",
+    "name": "WTR-Lab",
+    "site": "https://wtr-lab.com",
+    "lang": "es",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/InsanePR1/Insane/main/wtrlab.js",
+    "icon": "https://wtr-lab.com/favicon.ico"
+  }
+]
